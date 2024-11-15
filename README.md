@@ -1,5 +1,18 @@
 ## expression_tool
 
+Import a package.
+```go
+import (
+"github.com/meiyoutoufa/expression_tool"
+)
+```
+
+install
+```shell
+go get github.com/meiyoutoufa/expression_tool
+```
+
+
 example
 ```go
 
